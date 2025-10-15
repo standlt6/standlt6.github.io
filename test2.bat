@@ -1,0 +1,2 @@
+whoami /all
+pause
