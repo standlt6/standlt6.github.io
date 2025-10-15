@@ -1,1 +1,3 @@
 whoami /all
+pause
+
